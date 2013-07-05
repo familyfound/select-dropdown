@@ -1,0 +1,27 @@
+{
+  "name": "select-dropdown",
+  "repo": "familyfound/select-dropdown",
+  "description": "Dropdown select widget",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "fs-components/bootstrap-dropdown-css": "*",
+    "component/domify": "*",
+    "component/query": "*",
+    "component/classes": "*",
+    "component/emitter": "*",
+    "component/event": "*"
+  },
+  "development": {
+    "chaijs/chai": "*"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js",
+    "template.js"
+  ],
+  "styles": [
+    "select-dropdown.css"
+  ]
+}

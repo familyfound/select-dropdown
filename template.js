@@ -1,0 +1,1 @@
+module.exports = '<div class="dropdown select-dropdown">\n  <a class="dropdown-toggle" role="button" data-toggle="dropdown" data-target="#" href=\'#\'>\n    <span class="title"></span>\n    <b class="caret"></b>\n  </a>\n  <ul class="dropdown-menu" role="menu">\n  </ul>\n</div>\n';
